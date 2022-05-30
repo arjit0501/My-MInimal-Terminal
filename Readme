@@ -1,0 +1,12 @@
+First compile .c file with command gcc partA.c which create executable file a.out for corresponding file.
+Then excecute a.out file with command ./a.out
+
+PART A:
+This part only accept cd, help, exit, hello, all linux excecutable commands in terminal without pipe("|"), &&etc
+
+PART B:
+This part is extended Part of partA with use of pipe("|") and && .
+
+PART C:
+This part is extended part of partA and PartB with additional redirection part (">").
+
