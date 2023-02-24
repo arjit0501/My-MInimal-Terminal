@@ -1,1 +1,1 @@
-# My-MInimal-Terminal
+# My-Minimal-Terminal
